@@ -1,0 +1,141 @@
+body {
+    font-family: 'Montserrat-Black', sans-serif;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #ffffff;
+
+}
+
+.container-fluid {
+    padding: 3% 15%;
+    margin-left: 60%;
+}
+
+
+#main-title {
+    font-family: Montserrat-Black, sans-serif;
+    font-size: 4rem;
+    font-weight: 900;
+    line-height: 1.5;
+
+}
+
+/*title image */
+.iphone {
+    transform: rotate(30deg);
+    width: 60%;
+}
+
+/*Nav bar*/
+
+#navb {
+    padding: 0 0 4.5rem 0;
+}
+
+
+.navbar-custom-padding {
+    padding-right: 20%;
+
+}
+
+#nav-title {
+    font-family: Ubuntu, sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-family: Montserrat, sans-serif;
+
+}
+
+/*Download buttons */
+
+.downloadbtn{
+    margin: 5% 3% 5% 0 ;
+}
+
+
+/*Section 2 of the website */
+.features-container{
+    text-align: center;
+    padding: 7% 15%;
+}
+
+
+.section-two-icons{
+
+    display: inline-block;
+    color: #ff4c68;
+}
+
+.section-two-icons:hover{
+    color: #ff4c98;
+
+}
+
+.section-two-h4{
+    font-family: Montserrat-Black,sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.bio-section-two{
+    color: #8f8f8f ;
+}
+
+
+
+.feature-box{
+    padding: 5%;
+    text-align: center;
+    text-wrap: normal;
+}
+
+
+/*Testimonial Section */
+
+#testimonials{
+    padding: 7% 15%;
+    color: #ffffff;
+    background-color: #ff4c68;
+    text-align: center;
+
+}
+
+h2{
+    font-family: Montserrat-Bold, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    line-height: 1.7;
+
+
+
+}
+
+.dog-picture{
+    width: 10%;
+    border-radius: 100%;
+}
+
+.testimonial-text{
+    display: inline;
+    margin-left: 20px;
+}
+
+#press{
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 3%;
+}
+
+.logos{
+    width: 15%;
+    margin: 20px 15px 15px 50px;
+}
